@@ -1,0 +1,17 @@
+com\example\canteen\controller\PageController.class
+com\example\canteen\entity\MenuItem.class
+com\example\canteen\entity\CanteenOrder.class
+com\example\canteen\service\DataInitializer.class
+com\example\canteen\repository\MenuItemRepository.class
+com\example\canteen\entity\AppUser.class
+com\example\canteen\config\SecurityConfig.class
+com\example\canteen\service\CustomUserDetailsService.class
+com\example\canteen\controller\StaffController.class
+com\example\canteen\entity\OrderItem.class
+com\example\canteen\repository\UserRepository.class
+com\example\canteen\repository\CanteenOrderRepository.class
+com\example\canteen\service\RegistrationService.class
+com\example\canteen\controller\StudentController.class
+com\example\canteen\service\OrderService.class
+com\example\canteen\CampusCanteenApplication.class
+com\example\canteen\controller\AuthController.class
